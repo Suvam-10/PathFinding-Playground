@@ -1,6 +1,6 @@
 # Pathfinding Visualizer
 
-Welcome to Pathfinding Visualizer! I built this application because I was fascinated by pathfinding algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Pathfinding-Visualizer/
+Explore the fascinating world of pathfinding algorithms with PathFinder Playground, a versatile project that demonstrates and compares various pathfinding algorithms to find the shortest path between two points on a grid. Whether you're a student learning about algorithms or a developer seeking insights into different pathfinding techniques, this project provides an interactive platform for experimentation and learning.:(https://github.com/Suvam-10/PathFinding-Playground)
 
 ## Meet the Algorithms
 
